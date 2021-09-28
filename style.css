@@ -1,0 +1,10 @@
+.center{
+    margin: 0 auto;
+}
+.image{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    min-width: 150px;
+    max-width: 400px;
+}
